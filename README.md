@@ -153,19 +153,20 @@ Supply-Chain-Logistics-Risk-Analytics-Dashboard
 
 ### Executive Overview
 
-(Add Screenshot)
+![Executive Overview](screenshots/page-1.png)
 
 ### Logistics Performance
 
-(Add Screenshot)
+![Logistics Performance](screenshots/page-2.png)
 
 ### Risk Analytics
 
-(Add Screenshot)
+![Risk Analytics](screenshots/page-3.png)
 
 ### Business Insights & Recommendations
 
-(Add Screenshot)
+![Business Insights](screenshots/page-4.png)
+
 
 ---
 
